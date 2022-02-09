@@ -1,0 +1,179 @@
+body{
+
+    margin: 0;
+    height: 100vh
+    /*background-image: linear-gradient(45deg  ,yellow 60%, purple 40%);*/
+
+}
+
+p{
+
+    text-align:center ;
+    padding: 220px 130px 130px 130px;
+    color: white;
+    font-size: 40px;
+
+}
+
+.grad1{
+
+    height: 95vh;
+    border: 5px solid black;
+    background-image: linear-gradient(37deg, rgb(32, 20, 20) 70%, purple 30%) ;
+
+}
+
+.grad2{
+
+    height: 95vh;
+    border: 5px solid black;
+    background-image: linear-gradient(75rad, blue 55%, black 23%,orange 90% );
+
+}
+
+.grad3{
+
+    height: 95vh;
+    border: 5px solid black;
+    background-image: linear-gradient(to top, red, blue, yellow);
+
+}
+
+.grad4{
+
+    height: 95vh;
+    border: 5px solid black;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, darkblue, violet);
+
+}
+
+.grad5{
+
+    height: 95vh;
+    border: 5px solid black;
+    background-image: radial-gradient( blue 5%, Yellow 15%);
+    
+
+}
+
+.grad6{
+
+    height: 95vh;
+    border: 5px solid black;
+    background: repeating-linear-gradient(#34d1c4, #10494b 20px, #293186 20px, #000435 25px);
+ 
+
+    /*repeating-radial-gradient (black 0%, white 25%)*/
+
+}
+
+.grad7{
+
+    height: 95vh;
+    border: 5px solid black;
+    background-image: repeating-linear-gradient(-45deg,
+      red 0 20px,
+      black 20px 40px);
+
+}
+
+.grad8{
+
+    height: 95vh;
+    border: 5px solid black;
+    background: repeating-linear-gradient(transparent, rgb(0, 145, 0) 40px),
+            repeating-linear-gradient(0.25turn, transparent, rgb(247, 247, 0) 20px);
+
+    
+
+}
+
+.img1{
+
+    background-image: url(https://sm.ign.com/ign_br/tv/d/demon-slay/demon-slayer_8a99.jpg);
+    height: 95vh;
+    border: 5px solid black;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0%;
+
+}
+
+.img2{
+
+    background-image: url(https://data.whicdn.com/images/346773143/original.gif);
+    height: 95vh;
+    border: 5px solid black;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0%;
+
+}
+
+.img3{
+
+    background-image: url(https://ptanime.com/wp-content/uploads/2016/10/Mushishi_recebe_Leitura_em_Palco_com_Realidade_Aumentada_Cover_14122014.jpg);
+    height: 95vh;
+    border: 5px solid black;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0%;
+
+}
+
+.img4{
+
+    background-image: url(https://c.tenor.com/QqonWX2IOVUAAAAd/ginko-mushishi.gif);
+    height: 95vh;
+    border: 5px solid black;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0%;
+
+}
+
+.img5{
+
+    background-image: url(https://rukhnoteikoku.files.wordpress.com/2019/03/toponatsume.yuujinchou.full_.1087858-1.png);
+    height: 95vh;
+    border: 5px solid black;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0%;
+
+}
+
+.img6{
+
+    background-image: url(https://c.tenor.com/SUA1d3W22N0AAAAC/natsume-yuujinchou-gif-natsume-yuujinchou.gif);
+    height: 95vh;
+    border: 5px solid black;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0%;
+
+}
+
+.img7{
+
+    background-image: url(https://3.bp.blogspot.com/-qE_vU_TTxpo/WPaWBqGaEbI/AAAAAAAAETU/fuCF-BOTVcAXKP8oEy0R-Pvc083s0l87ACLcB/s1600/Persona5-capa-phantom-thieves.jpg);
+    height: 95vh;
+    border: 5px solid black;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0%;
+
+}
+
+.img8{
+
+    background-image: url(https://giffiles.alphacoders.com/610/61067.gif);
+    height: 95vh;
+    border: 5px solid black;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0%;
+
+}
+
+
